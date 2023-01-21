@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642872047 source:c:\users\tgben\onedrive\bureau\2048\main.cpp
+	<iostream>
+	<time.h>
+
+1642872047 source:c:\users\tgben\onedrive\bureau\codeblocks projects\2048\main.cpp
+	<iostream>
+	<time.h>
+
